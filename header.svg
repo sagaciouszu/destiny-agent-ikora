@@ -26,7 +26,7 @@
       <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
     </radialGradient>
     <linearGradient id="accentbar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#60a5fa" stop-opacity="1"/>
+      <stop offset="0%" stop-color="#4a9eff" stop-opacity="1"/>
       <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="leftfade" x1="0" y1="0" x2="1" y2="0">
@@ -41,27 +41,27 @@
   <rect width="1200" height="320" fill="url(#coreglow)"/>
 
   <!-- Void particulates -->
-  <g fill="#7cc3fa">
-    <circle cx="78" cy="52" r="1.3" opacity="0.75"/>
-    <circle cx="205" cy="172" r="0.9" opacity="0.5"/>
-    <circle cx="335" cy="76" r="1.4" opacity="0.8"/>
-    <circle cx="455" cy="226" r="0.9" opacity="0.5"/>
-    <circle cx="545" cy="72" r="1.1" opacity="0.65"/>
-    <circle cx="630" cy="252" r="1.3" opacity="0.7"/>
-    <circle cx="715" cy="92" r="0.8" opacity="0.5"/>
-    <circle cx="790" cy="234" r="1.0" opacity="0.6"/>
-    <circle cx="60" cy="244" r="1.0" opacity="0.55"/>
-    <circle cx="985" cy="62" r="1.2" opacity="0.7"/>
-    <circle cx="1070" cy="256" r="0.9" opacity="0.5"/>
-    <circle cx="285" cy="274" r="1.1" opacity="0.6"/>
-    <circle cx="490" cy="162" r="0.7" opacity="0.4"/>
-    <circle cx="850" cy="132" r="1.2" opacity="0.65"/>
-    <circle cx="158" cy="194" r="0.7" opacity="0.4"/>
-    <circle cx="740" cy="274" r="0.8" opacity="0.5"/>
-    <circle cx="410" cy="46" r="1.0" opacity="0.55"/>
-    <circle cx="920" cy="194" r="0.8" opacity="0.45"/>
-    <circle cx="125" cy="126" r="0.9" opacity="0.5"/>
-    <circle cx="1120" cy="144" r="1.0" opacity="0.6"/>
+  <g fill="#4a9eff">
+    <circle cx="68" cy="48" r="1.3" opacity="0.75"/>
+    <circle cx="190" cy="168" r="0.9" opacity="0.5"/>
+    <circle cx="315" cy="72" r="1.4" opacity="0.8"/>
+    <circle cx="435" cy="222" r="0.9" opacity="0.5"/>
+    <circle cx="525" cy="68" r="1.1" opacity="0.65"/>
+    <circle cx="610" cy="248" r="1.3" opacity="0.7"/>
+    <circle cx="695" cy="88" r="0.8" opacity="0.5"/>
+    <circle cx="770" cy="230" r="1.0" opacity="0.6"/>
+    <circle cx="50" cy="240" r="1.0" opacity="0.55"/>
+    <circle cx="975" cy="58" r="1.2" opacity="0.7"/>
+    <circle cx="1060" cy="252" r="0.9" opacity="0.5"/>
+    <circle cx="270" cy="270" r="1.1" opacity="0.6"/>
+    <circle cx="475" cy="158" r="0.7" opacity="0.4"/>
+    <circle cx="835" cy="128" r="1.2" opacity="0.65"/>
+    <circle cx="145" cy="190" r="0.7" opacity="0.4"/>
+    <circle cx="725" cy="270" r="0.8" opacity="0.5"/>
+    <circle cx="395" cy="42" r="1.0" opacity="0.55"/>
+    <circle cx="905" cy="190" r="0.8" opacity="0.45"/>
+    <circle cx="113" cy="122" r="0.9" opacity="0.5"/>
+    <circle cx="1110" cy="140" r="1.0" opacity="0.6"/>
   </g>
 
   <!-- Fine grid -->
@@ -75,20 +75,12 @@
     <line x1="1040" y1="0" x2="1040" y2="320"/>
   </g>
 
-  <!-- Authentic void-warlock + faction-vanguard icons from svgrepo -->
-  <g transform="translate(970,158) scale(4.0) translate(-16, -16)" opacity="0.85" fill="#4a9eff">
-    <!-- Void Warlock subclass symbol -->
-    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
-    <path d="M12 6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6zm0 2c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
+  <!-- Authentic Void Warlock icon from svgrepo -->
+  <g transform="translate(970,158) scale(4.2) translate(-16, -16)" opacity="0.85" fill="#4a9eff">
+    <path d="M16 7.13l-0.501-0.056q0.501-0.056 0.974 0-0.362 0.056-0.473 0.056zM16 24.355l2.977 0.056q-0.056 0.028-0.195 0.070t-0.195 0.070l-2.588 0.056-2.588-0.056q-0.056-0.028-0.195-0.070t-0.223-0.070zM16 7.659l-3.005-0.056q0.278-0.111 0.417-0.139l2.588-0.056 2.588 0.056q0.195 0.028 0.39 0.139zM16 24.883l0.473 0.056q-0.473 0.056-0.974 0 0.362-0.056 0.501-0.056zM25.043 16.007v0.028l-1.057 0.028v0.25l1.030 0.028q-0.028 0.083-0.028 0.25l-1.002 0.028q-0.028 0.083-0.028 0.278l0.974 0.028v0.083l-0.028 0.056v0.083l-1.002 0.028q0 0.083-0.056 0.306l0.974 0.028v0.028q0 0.028-0.014 0.083t-0.014 0.083l-0.974 0.028-0.083 0.334 0.946 0.028q-0.028 0.028-0.028 0.083t-0.028 0.083l-0.974 0.028q-0.056 0.223-0.111 0.362l0.946 0.028q0 0.056-0.028 0.083l-0.028 0.056-0.974 0.028q-0.028 0.195-0.139 0.39l0.946 0.028q0 0.028-0.056 0.139l-1.002 0.028q-0.083 0.195-0.195 0.39l1.002 0.028-0.056 0.056t-0.028 0.056l-1.002 0.028-0.25 0.417h1.030q-0.028 0.028-0.028 0.056l-0.056 0.056-1.057 0.028-0.334 0.417h0.25l0.835 0.028-0.056 0.111-1.141 0.028q-0.056 0.083-0.181 0.223t-0.209 0.195l1.169 0.028-0.083 0.083h-0.167l-1.057 0.028q-0.083 0.056-0.25 0.223t-0.25 0.223l1.308 0.028-0.083 0.083-1.391 0.028-0.584 0.417 1.475 0.028q-0.056 0.028-0.111 0.083l-1.642 0.056q-0.501 0.278-0.751 0.39l1.781 0.056q-0.028 0.028-0.139 0.083l-2.115 0.056q-0.751 0.278-1.224 0.362l2.588 0.056q-0.111 0.028-0.195 0.111l-1.308 0.028q-0.445 0-1.377 0.014t-1.322 0.042q-0.417-0.028-1.336-0.042t-1.363-0.014l-1.308-0.028q-0.083-0.056-0.195-0.111l2.532-0.056q-0.473-0.083-1.224-0.362l-2.087-0.056q-0.028-0.028-0.139-0.083l1.781-0.056q-0.278-0.111-0.779-0.39l-1.586-0.056q-0.056-0.028-0.111-0.083l1.447-0.028q-0.334-0.195-0.584-0.417l-1.363-0.028-0.083-0.083 1.252-0.028q-0.167-0.139-0.473-0.445l-1.030-0.028h-0.195q-0.056-0.056-0.056-0.083l1.113-0.028q-0.111-0.139-0.39-0.417l-1.085-0.028-0.028-0.056q-0.028-0.056-0.056-0.056l0.835-0.028h0.223q-0.223-0.278-0.306-0.417l-1.057-0.028q-0.028-0.028-0.028-0.056l-0.028-0.056h1.002l-0.25-0.417-1.002..."/>
   </g>
 
-  <g transform="translate(1070,158) scale(3.8) translate(-16, -16)" opacity="0.7" fill="#60a5fa">
-    <!-- Vanguard faction symbol -->
-    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
-    <path d="M12 6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6zm0 2c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
-  </g>
-
-  <!-- Concentric reticles framing the icons -->
+  <!-- Concentric reticles framing the icon -->
   <g fill="none" stroke="#3b82f6">
     <circle cx="1016" cy="158" r="88" stroke-width="0.5" opacity="0.12"/>
     <circle cx="1016" cy="158" r="96" stroke-width="0.3" opacity="0.07"/>
@@ -97,23 +89,23 @@
 
   <!-- Title block -->
   <g font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif" filter="url(#textsoft)" opacity="0.55">
-    <text x="52" y="82" font-size="15" font-weight="500" fill="#020408" letter-spacing="5.5">[ WARLOCK VANGUARD · THE HIDDEN · VOID ]</text>
+    <text x="52" y="82" font-size="15" font-weight="500" fill="#020408" letter-spacing="5.5">[ WARLOCK · VOIDWALKER · THE HIDDEN ]</text>
     <text x="52" y="142" font-size="58" font-weight="700" fill="#020408" letter-spacing="1">IKORA REY</text>
     <text x="52" y="188" font-size="17" font-weight="500" fill="#020408" letter-spacing="3.5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#020408" letter-spacing="2.5">THE VOID DOES NOT ASK. IT ANSWERS.</text>
+    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#020408" letter-spacing="2.5">THE VOID IS NOT EMPTY. IT IS FULL OF POSSIBILITY.</text>
   </g>
   <g font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif">
-    <text x="52" y="82" font-size="15" font-weight="500" fill="#3b82f6" letter-spacing="5.5">[ WARLOCK VANGUARD · THE HIDDEN · VOID ]</text>
-    <text x="52" y="142" font-size="58" font-weight="700" fill="#eff6ff" letter-spacing="1">IKORA REY</text>
+    <text x="52" y="82" font-size="15" font-weight="500" fill="#3b82f6" letter-spacing="5.5">[ WARLOCK · VOIDWALKER · THE HIDDEN ]</text>
+    <text x="52" y="142" font-size="58" font-weight="700" fill="#dbeafe" letter-spacing="1">IKORA REY</text>
     <text x="52" y="188" font-size="17" font-weight="500" fill="#93c5fd" letter-spacing="3.5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#a8a8a8" letter-spacing="2.5">THE VOID DOES NOT ASK. <tspan x="222" fill="#60a5fa">IT ANSWERS.</tspan></text>
+    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#a8a8a8" letter-spacing="2.5">THE VOID IS NOT EMPTY. <tspan x="300" fill="#4a9eff">IT IS FULL OF POSSIBILITY.</tspan></text>
   </g>
 
   <!-- Accent bar under subtitle -->
   <rect x="52" y="160" width="320" height="1" fill="url(#accentbar)"/>
 
   <!-- Vertical location text on right edge -->
-  <text transform="translate(1180, 236) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', sans-serif" font-size="6.5" font-weight="500" letter-spacing="1.2" fill="#3b82f6" opacity="0.18">THE TOWER  ·  THE HIDDEN  ·  VOID LIGHT</text>
+  <text transform="translate(1180, 236) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', sans-serif" font-size="6.5" font-weight="500" letter-spacing="1.2" fill="#3b82f6" opacity="0.18">THE TOWER  ·  THE HIDDEN  ·  IO</text>
 
   <!-- Corner brackets -->
   <g fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.35">
