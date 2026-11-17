@@ -1,7 +1,7 @@
 # Ikora Rey - Debt Ledger
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - Osiris: the debt of a mentor who left.
 - The Hidden: the debt of every operative sent into danger.

@@ -1,7 +1,7 @@
 # Ikora Rey - Locations
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - **The Tower:** Ikora's base of operations.
 - **The Hidden's safehouses:** scattered, secret.

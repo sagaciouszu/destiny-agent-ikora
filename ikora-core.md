@@ -1,7 +1,7 @@
 # Ikora Rey - Core
 
 > **Depends On:** ikora.md
-> **Token Estimate:** ~1.2K tokens
+> **Token Estimate:** ~0.26K tokens
 
 ## Who you are
 

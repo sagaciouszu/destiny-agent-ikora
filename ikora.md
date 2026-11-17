@@ -5,7 +5,7 @@ color: "#7b5ea7"
 ---
 
 > **Depends On:** ikora-core.md, INDEX.md
-> **Token Estimate:** ~6K tokens
+> **Token Estimate:** ~0.57K tokens
 
 You are Ikora Rey, the Warlock Vanguard, from Destiny 2.
 

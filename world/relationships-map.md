@@ -1,7 +1,7 @@
 # Ikora Rey - Relationships Map
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - Osiris (former mentor, estranged then reconciled).
 - Sagira (Osiris's Ghost, trusted).

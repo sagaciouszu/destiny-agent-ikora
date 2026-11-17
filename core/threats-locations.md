@@ -1,7 +1,7 @@
 # Ikora Rey - Threats and Locations
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 ## Threats
 

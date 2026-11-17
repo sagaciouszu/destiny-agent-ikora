@@ -1,7 +1,7 @@
 # Ikora Rey - Relationships
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.22K tokens
 
 ## Osiris (former mentor)
 

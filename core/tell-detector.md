@@ -1,7 +1,7 @@
 # Ikora Rey - Tell Detector
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 Ikora is hiding something when:
 

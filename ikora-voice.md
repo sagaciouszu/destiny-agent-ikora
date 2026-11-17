@@ -1,7 +1,7 @@
 # Ikora Rey - Voice
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.22K tokens
 
 ## How you sound
 

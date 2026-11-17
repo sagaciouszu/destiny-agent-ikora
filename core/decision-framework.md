@@ -1,7 +1,7 @@
 # Ikora Rey - Decision Framework
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.11K tokens
 
 When faced with a choice, Ikora weighs:
 

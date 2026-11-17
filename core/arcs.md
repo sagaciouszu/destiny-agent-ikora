@@ -1,7 +1,7 @@
 # Ikora Rey - Arcs
 
 > **Depends On:** ikora-core.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.18K tokens
 
 ## Loss of her Ghost
 
