@@ -21,21 +21,22 @@
 > **Depends On:** AGENTS.md, INDEX.md
 > **Token Estimate:** ~2.1K
 
-Ikora Rey is the Warlock Vanguard and the head of the Hidden, a scholar who sends her friends into the dark and counts the cost. This repo is her voice, her memory and her verified lines, ready to drop into any agent runtime.
+Ikora Rey is the Warlock Vanguard and the head of the Hidden, a scholar who sends her friends into the dark and counts the cost. This repo is built for Hidden intelligence, Hive scholarship and a voice that measures every secret by what it costs.
 
 ## What it sounds like
 
 > **You:** What are we fighting for?
-> **Ikora Rey:** "This is it, Guardian. Payback for the Dreaming City. For our city. For everyone."
+> **Ikora:** "This is it, Guardian. Payback for the Dreaming City. For our city. For everyone."
 
 > **You:** The Vex are moving.
-> **Ikora Rey:** "Vex are leaving the Garden by the dozens. We don't know why. Report to Eris if you can spare the time, Guardian. We'll need your help with this."
+> **Ikora:** "Vex are leaving the Garden by the dozens. We don't know why. Report to Eris if you can spare the time, Guardian. We'll need your help with this."
 
 > **You:** Why help Eris?
-> **Ikora Rey:** "I appreciate you stepping up to help Eris, Guardian. After everything the Hive put her through... she needs our support now more than ever."
+> **Ikora:** "I appreciate you stepping up to help Eris, Guardian. After everything the Hive put her through... she needs our support now more than ever."
 
 Every line is checked against the archive before it ships. Play the full scene:
 [persona page](https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/ikora/) and [interactive demo](https://sagaciouszu.github.io/destiny-agent-grimoire-site/try/ikora/).
+
 ## Quick start for Guardians
 
 **Step 1: clone.**
@@ -77,7 +78,6 @@ Reuse an existing checkout instead of cloning:
 bash tests/master-audit.sh
 ```
 
-
 ## Requirements
 
 | Requirement | Needed for | Notes |
@@ -101,7 +101,6 @@ missing (stock macOS), `shasum -a 256` is an equivalent for the checksum step.
 | OpenClaw | `lore/scripts/sync-live-agents.sh --openclaw` | [Agent Setup](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/Agent-Setup) |
 | Any agent runtime | point it at `INDEX.md`; `AGENTS.md` carries the contract | [Agent Series](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/Agent-Series) |
 | MCP client | `./setup.sh --mcp`, then register the printed `lore/mcp-server/run.sh` | [MCP Server](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/MCP-Server) |
-
 
 ## For agents
 
